@@ -1,0 +1,24 @@
+{
+  "name": "random-msg-generator",
+  "version": "1.0.0",
+  "description": "Random message generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dans182/random-msg-generator.git"
+  },
+  "keywords": [],
+  "author": "Daniel Gaiteiro <dgaiteiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dans182/random-msg-generator/issues"
+  },
+  "homepage": "https://github.com/Dans182/random-msg-generator#readme",
+  "bin": {
+    "random-msg-generator": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
