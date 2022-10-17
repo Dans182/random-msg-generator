@@ -66,6 +66,14 @@ Ya verificado que efectivamente funciona, podemos seguir con la creación de la 
 
     Se busca en npm la dependencia y se verifica que este subida !
 
+
+
 Semántica de versionados
     https://semver.org/lang/es/
+
+Listado de comandos
+    https://gist.github.com/Jsifontez/b3f1d34795748f1abe100f031806076d
+
+https://luis-ariza.notion.site/NPM-Gesti-n-de-Dependencias-y-Paquetes-en-JavaScript-8d621bda1a3743f6a45f068dcdc2deb3
+
 
