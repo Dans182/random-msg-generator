@@ -1,6 +1,31 @@
 # random-msg-generator
 Random message generator
 
+# random-msg-generator
+
+Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+
+## Install
+
+```npm
+npm install -g random-msg-generator
+```
+
+# Usage
+
+```bash
+ random-msg-generator
+```
+
+# Contributing
+
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/gndx/random-str-msg)
+
+# License
+
+funny-commit is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+
 npm init -y => Con este comando + el flag -y inicializamos npm en nuestro nuevo repositorio, con la información por defecto de repositorios anteriores.
 
 La clave “bin” se pone en el archivo package.json para asignarle los archivos que son ejecutables, osea, en “bin” se asignan las rutas de los archivos js que contienen el codigo de las llamadas de las funciones del paquete creado y segun entiendo si un codigo contiene llamadas de funciones es porque dicho codigo es un ejecutable.
@@ -40,3 +65,7 @@ Ya verificado que efectivamente funciona, podemos seguir con la creación de la 
     npm publish
 
     Se busca en npm la dependencia y se verifica que este subida !
+
+Semántica de versionados
+    https://semver.org/lang/es/
+
