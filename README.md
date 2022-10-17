@@ -56,7 +56,7 @@ Ya verificado que efectivamente funciona, podemos seguir con la creación de la 
 
     Vamos a la terminal
 
-    npm adduser
+    npm adduser => Sirve para logearnos en nuestra cuenta de npm. Nos pide contraseña, OTP, user e mail.
 
     Añadimos los datos que nos pide la consola …
 
@@ -65,6 +65,11 @@ Ya verificado que efectivamente funciona, podemos seguir con la creación de la 
     npm publish
 
     Se busca en npm la dependencia y se verifica que este subida !
+
+    npm version x.x.x => Acá hacemos el versionado que queremos publicar.
+
+    Cada cambio, lo subo a github y tengo que darle a npm publish para que lo actualice en npm.
+
 
 
 
